@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+     background-color: black;
+     color: grey;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: centre;
+}
+
+#clock {
+  margin: 10%, auto;
+  font-size: 5em;
+  
+}
+
+h1{
+  font-size: 3em;
+}
